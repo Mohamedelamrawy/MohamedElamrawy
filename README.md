@@ -59,6 +59,16 @@
 
 ---
 
+## 📡 CONTACT GRID
+
+<p align="center">
+  <a href="mailto:mohamedelamrawy7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mohamedelamrawy7%40gmail.com-00FFAA?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/mohamed-hany-elamrawy"><img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0099FF?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/MohamedElamrawy"><img src="https://img.shields.io/badge/GITHUB-MohamedElamrawy-FFFFFF?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
 <div align="center">
   <h2>🧠 DETECT → ANALYZE → RESPOND → CONTAIN</h2>
 </div>
