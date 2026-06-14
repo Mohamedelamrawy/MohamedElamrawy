@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/8QfQvQy.png" width="100%" />
-</p>
-
 <h1 align="center">🛡️ SOC OPERATIONS CENTER</h1>
 
 <h3 align="center">
@@ -33,10 +29,36 @@
 - 🔓 Pentesting: Burp Suite | Nmap | OWASP ZAP
 - 💻 Automation: Python | PowerShell | Bash
 
+---
+
+## 📜 CERTIFICATIONS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NSE4-FORTINET-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NSE5-FORTIANALYZER-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FCP-SECURITY%20OPS-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FORTISIEM-IN%20PROGRESS-FFAA00?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedElamrawy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamrawy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamrawy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElamrawy&theme=react-dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+  <h2>🧠 DETECT → ANALYZE → RESPOND → CONTAIN</h2>
+</div>
