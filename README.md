@@ -1,95 +1,113 @@
-# Mohamed Hany Elamrawy
+<h1 align="center">Mohamed Hany Elamrawy</h1>
 
-**SOC Analyst TIR1 | Cybersecurity Engineer**
+<h3 align="center">SOC Analyst TIR1 | Cybersecurity Engineer</h3>
 
-Cairo, Egypt آ· [mohamedelamrawy7@gmail.com](mailto:mohamedelamrawy7@gmail.com) آ· +201004570713 آ· [LinkedIn](https://linkedin.com/in/mohamed-hany-elamrawy)
-
----
-
-## About Me
-
-Aspiring Cybersecurity Analyst with hands-on experience in SOC operations and penetration testing. Proficient in managing SIEM platforms (Splunk, FortiSIEM, QRadar) and executing vulnerability assessments. Proven track record in bridging technical security requirements with business objectives through international tender management and proposal writing.
+<p align="center">
+📍 Cairo, Egypt • 📧 mohamedelamrawy7@gmail.com • 📞 +20 100 457 0713
+</p>
 
 ---
 
-## Skills
+## 🧠 ABOUT ME
 
-**SOC Operations**
-Splunk آ· IBM QRadar آ· FortiSIEM آ· Wazuh آ· ELK Stack آ· Threat Hunting آ· Incident Response
-
-**Network & Infrastructure Security**
-Windows Server آ· Linux آ· Active Directory آ· FortiGate آ· NGFW آ· IPS آ· IPsec VPN آ· SSL VPN آ· Web Filtering
-
-**Penetration Testing & Assessment**
-Burp Suite آ· Nmap آ· OWASP ZAP آ· Metasploit آ· Kali Linux آ· Vulnerability Assessment
-
-**Scripting & Automation**
-Python آ· PowerShell آ· Bash آ· Sigma Rules
+> Cybersecurity professional focused on SOC operations, threat detection, and penetration testing.
+> Experienced in SIEM platforms, incident response, and security monitoring across enterprise environments.
 
 ---
 
-## Experience
+## ⚙️ SKILLS MATRIX
 
-**Pre-Sales Cybersecurity Engineer** â€” Human Intelligence
-*March 2025 â€“ May 2026*
-- Managed cybersecurity tenders for enterprise and government clients across Egypt, Rwanda, and Russia
-- Positioned security solutions for healthcare and telemedicine sectors
-- Prepared technical and financial proposals aligned with business and regulatory requirements
-- Conducted Proof of Concept (PoC) demonstrations during the presales process
-- Contributed to winning the Housing & Development Bank cybersecurity tender
+### 🛡 SOC & Monitoring
+Splunk • IBM QRadar • FortiSIEM • Wazuh • ELK Stack • Threat Hunting • Incident Response
 
-**SOC Trainee** â€” National Telecommunications Institute (NTI)
-*January 2026 â€“ April 2026*
-- Built foundations in networking, Linux administration, and FortiGate firewall management
-- Performed penetration testing and vulnerability analysis across network and web environments
-- Used Splunk, QRadar, and FortiSIEM for monitoring, correlation, and incident analysis
-- Applied threat hunting, incident response, and security reporting practices
+### 🌐 Infrastructure Security
+Windows Server • Linux • Active Directory • FortiGate • NGFW • IPS • VPN (IPsec / SSL)
 
-**Cybersecurity Intern (Penetration Testing)** â€” Cyberteq
-*June 2025 â€“ August 2025*
-- Executed web and network penetration testing on live targets using Burp Suite, Nmap, and OWASP ZAP
-- Identified and exploited OWASP Top 10 vulnerabilities and complex network misconfigurations
-- Authored technical reports detailing vulnerabilities and providing actionable mitigation strategies
+### 🔓 Penetration Testing
+Burp Suite • Nmap • OWASP ZAP • Metasploit • Kali Linux • Vulnerability Assessment
+
+### 💻 Scripting & Automation
+Python • PowerShell • Bash • Sigma Rules
 
 ---
 
-## Certifications
+## 💼 EXPERIENCE
 
-| Certification | Issuer | Date | Status |
-|:-------------|:-------|:----:|:------:|
-| NSE 4 â€” FortiOS 7.6 Administrator | Fortinet | May 2026 | Certified |
-| NSE 5 â€” FortiAnalyzer 7.6 Analyst | Fortinet | Mar 2026 | Certified |
-| FCP â€” Security Operations | Fortinet | May 2026 | Certified |
-| FortiSIEM 7.4 Analyst | Fortinet | Ongoing | In Progress |
-
-**Additional Training:** CEH (IT Gate), CCNA (IT Gate), MCSA (IT Gate), Red Hat Linux Administration, Cisco CyberOps Associate (NTI), Jr Penetration Tester (TryHackMe), eWPTv2, eCIR (NET Riders Academy)
+### 🏢 Pre-Sales Cybersecurity Engineer
+**Human Intelligence** | 2025 – 2026  
+• Managed enterprise cybersecurity tenders across multiple regions  
+• Designed security solutions for healthcare & telecom sectors  
+• Delivered PoC demonstrations and technical proposals  
+• Contributed to winning national-level cybersecurity projects  
 
 ---
 
-## Projects
-
-**SOC Home Lab** â€” Built a complete SOC environment with Wazuh SIEM for log collection, correlation, and alerting. Simulated privilege escalation, lateral movement, and credential dumping in a controlled Active Directory environment. Documented mitigation strategies including account lockout policies, access control hardening, and detection rule tuning.
-
-**Active Directory Attack Simulation & Detection** â€” Simulated attack techniques in a controlled AD environment and detected indicators using Wazuh SIEM correlation rules. Proposed and documented mitigations aligned with MITRE ATT&CK framework.
-
-**Brute Force Detection & Security Monitoring** â€” Detected brute-force attacks via failed authentication pattern analysis using Wazuh SIEM. Monitored RDP and SSH authentication logs. Implemented account lockout policies and developed correlation rules for real-time alerting.
-
-**Web & Network Pentesting Lab** â€” Performed web application and network penetration testing using Burp Suite, Nmap, and OWASP ZAP. Identified OWASP Top 10 vulnerabilities and network misconfigurations. Authored technical reports with risk ratings and remediation steps.
+### 🏢 SOC Trainee
+**NTI** | 2026  
+• SIEM monitoring using Splunk, QRadar, FortiSIEM  
+• Threat hunting & incident response operations  
+• Network security & firewall administration  
+• Hands-on penetration testing in lab environments  
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedelamrawy&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=32CD32&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedelamrawy&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00BFFF&ring=32CD32&fire=FF5733)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedelamrawy&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9)
+### 🏢 Cybersecurity Intern (Pentesting)
+**Cyberteq** | 2025  
+• Web & network penetration testing using industry tools  
+• OWASP Top 10 vulnerability exploitation  
+• Security reporting & remediation documentation  
 
 ---
 
-## Contact
+## 📜 CERTIFICATIONS
 
-- **Email:** [mohamedelamrawy7@gmail.com](mailto:mohamedelamrawy7@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-hany-elamrawy](https://linkedin.com/in/mohamed-hany-elamrawy)
-- **Phone:** +201004570713
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| NSE 4 FortiOS | Fortinet | Certified |
+| NSE 5 FortiAnalyzer | Fortinet | Certified |
+| FCP Security Operations | Fortinet | Certified |
+| FortiSIEM Analyst | Fortinet | In Progress |
+
+---
+
+## 🚀 PROJECTS
+
+### 🔴 SOC Home Lab
+Built a full SOC environment using Wazuh SIEM with Active Directory attack simulation, detection rules, and incident response workflows.
+
+---
+
+### 🔵 AD Attack Simulation
+Simulated lateral movement and credential attacks in Active Directory and detected them using SIEM correlation rules aligned with MITRE ATT&CK.
+
+---
+
+### 🟠 Brute Force Detection System
+Designed detection rules for brute force attacks using authentication log analysis and real-time alerting mechanisms.
+
+---
+
+### 🟣 Pentesting Lab
+Performed web & network security assessments using Burp Suite, Nmap, and OWASP ZAP with full reporting.
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElamrawy&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+📧 Email • LinkedIn • GitHub
+</p>
+
+---
+
+<p align="center">
+<b>"Detect • Analyze • Respond"</b>
+</p>
