@@ -1,97 +1,137 @@
-<h1 align="center">⚡ Mohamed Hany Elamrawy ⚡</h1>
+<h1 align="center">🛡️ SOC OPERATIONS CENTER // TIER 1 ANALYST</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=SOC+Analyst+TIR1;Cybersecurity+Engineer;Threat+Hunter;Penetration+Tester" />
-</h3>
-
----
-
-## 🌐 ABOUT ME
-
-SOC Analyst | Cybersecurity Engineer | Threat Hunter
-Focus: SIEM • Incident Response • Pentesting • Detection Engineering
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFAA&center=true&vCenter=true&width=800&lines=Threat+Detection+%7C+Incident+Response+%7C+SOC+Monitoring;Cybersecurity+Engineer+%7C+SOC+Tier+1+Analyst;SIEM+%7C+MITRE+ATT%26CK+%7C+Threat+Hunting" />
+</h2>
 
 ---
 
-## ⚙️ TECH STACK
+## 🟢 SYSTEM STATUS PANEL
+
+```bash
+STATUS        : ONLINE 🟢
+ROLE          : SOC Analyst Tier 1
+MODE          : DEFENSIVE SECURITY OPERATIONS
+THREAT LEVEL  : MONITORING
+FOCUS         : DETECT → ANALYZE → RESPOND
+ENVIRONMENT   : ENTERPRISE SECURITY OPS
+```
+
+---
+
+## ⚙️ SECURITY INFRASTRUCTURE STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,azure,git" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,azure,git,docker" />
 </p>
 
 ---
 
-## 🛡 SOC TOOLKIT
+## 🛡️ SECURITY OPERATIONS MODULES
 
-🔍 Splunk  
-📊 IBM QRadar  
-🧠 Wazuh SIEM  
-🔥 FortiSIEM  
-🌐 ELK Stack  
-🚨 Incident Response  
-🎯 Threat Hunting  
+**SIEM_ENGINES:**
+- Splunk Enterprise Security
+- IBM QRadar
+- FortiSIEM
+- Wazuh (Detection + Correlation)
+- ELK Stack (Log Analysis)
 
----
+**THREAT_DETECTION:**
+- MITRE ATT&CK Mapping
+- Behavioral Analysis
+- Log Correlation
+- IOC Tracking
 
-## 💼 EXPERIENCE
-
-### 🏢 Pre-Sales Cybersecurity Engineer
-Managed cybersecurity tenders across multiple regions  
-Designed security solutions for enterprise clients  
-Delivered PoC demonstrations  
-Contributed to winning major cybersecurity projects  
-
-### 🏢 SOC Trainee
-SIEM monitoring (Splunk, QRadar, FortiSIEM)  
-Threat hunting & incident response  
-Network security & firewall analysis  
-Security reporting and log analysis  
-
-### 🏢 Cybersecurity Intern (Pentesting)
-Web & network penetration testing  
-OWASP Top 10 vulnerability analysis  
-Exploitation using Burp Suite, Nmap, OWASP ZAP  
-Security reporting & mitigation recommendations  
+**INCIDENT_RESPONSE:**
+- Alert Triage
+- Root Cause Analysis
+- Containment Strategies
+- Post-Incident Reports
 
 ---
 
-## 🚀 PROJECTS
-
-### 🔴 SOC Home Lab
-Built a full SOC environment using Wazuh SIEM with Active Directory attack simulation, detection rules, and incident response workflows.
-
-### 🔵 AD Attack Simulation
-Simulated lateral movement and credential attacks in Active Directory and detected them using SIEM correlation rules aligned with MITRE ATT&CK.
-
-### 🟠 Brute Force Detection System
-Designed detection rules for brute force attacks using authentication log analysis and real-time alerting.
-
-### 🟣 Web & Network Pentesting Lab
-Performed security testing using Burp Suite, Nmap, and OWASP ZAP with full vulnerability reporting.
-
----
-
-## 📊 GITHUB STATS
+## 📊 LIVE SECURITY DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElamrawy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElamrawy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamrawy&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamrawy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## 🚨 THREAT INCIDENT EXPERIENCE
+
+### 🔴 SOC Monitoring Operations (NTI)
+- Real-time SIEM log analysis (Splunk / QRadar / FortiSIEM)
+- Threat hunting & correlation rule tuning
+- Security event triage & escalation handling
+- Incident response workflow execution
+
+### 🟠 Cybersecurity Internship (Pentesting)
+- Web & network exploitation testing
+- OWASP Top 10 vulnerability assessment
+- Attack simulation in controlled environments
+- Security remediation & reporting
+
+### 🔵 Pre-Sales Security Engineering
+- Enterprise security architecture design
+- Cybersecurity solution engineering
+- Government & enterprise tender delivery
+- Proof of Concept (PoC) execution
+
+---
+
+## 📜 CERTIFICATION CONTROL PANEL
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElamrawy&theme=react-dark" />
+  <img src="https://img.shields.io/badge/NSE4-FORTINET-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NSE5-FORTIANALYZER-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FCP-SECURITY%20OPS-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FORTISIEM-IN%20PROGRESS-FFAA00?style=for-the-badge" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🎯 SECURITY PROJECTS (REAL-WORLD SIMULATION)
+
+### 🔴 SOC HOME LAB (ENTERPRISE SIMULATION)
+- SIEM deployment using Wazuh
+- Active Directory attack simulation
+- Detection rule engineering
+- Incident response workflows
+
+### 🔵 THREAT DETECTION ENGINE
+- Brute force detection system
+- Authentication anomaly detection
+- Real-time alerting logic
+- Security event correlation
+
+### 🟠 ACTIVE DIRECTORY ATTACK SIMULATION
+- Lateral movement simulation
+- Credential dumping detection
+- MITRE ATT&CK framework mapping
+- Defensive security tuning
+
+### 🟣 PENETRATION TESTING LAB
+- Web & network exploitation
+- Vulnerability assessment lifecycle
+- Security reporting framework
+- Remediation strategy design
+
+---
+
+## 📈 SECURITY OPERATIONS GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElamrawy&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE (LIVE MAP)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -99,7 +139,7 @@ Performed security testing using Burp Suite, Nmap, and OWASP ZAP with full vulne
 
 ---
 
-## 📡 CONNECT
+## 🛰️ THREAT INTELLIGENCE CONTACT LAYER
 
 📧 Email: mohamedelamrawy7@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/mohamed-hany-elamrawy  
@@ -108,5 +148,5 @@ Performed security testing using Burp Suite, Nmap, and OWASP ZAP with full vulne
 ---
 
 <p align="center">
-  <b>⚡ Detect • Analyze • Respond ⚡</b>
+  <b>🛡️ DETECT • ANALYZE • RESPOND • PROTECT 🛡️</b>
 </p>
