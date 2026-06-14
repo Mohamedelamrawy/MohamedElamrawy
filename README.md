@@ -92,6 +92,7 @@
 ## 📡 CONTACT
 
 - 📧 Email: mohamedelamrawy7@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/mohamed-hany-elamrawy  
 - 📍 Location: Cairo, Egypt  
 
 ---
